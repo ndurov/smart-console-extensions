@@ -2,7 +2,7 @@
 	"extension": {
 		"name": "Hello World",
 		"product-url": "https://sc1.checkpoint.com/documents/SmartConsole/Extensions/index.html?ref=hello-world",
-		"provider": "raw.githubusercontent.com",
+		"provider": "githubusercontent.com",
 		"version": "1.0"
 	},
 	"custom-data": {
